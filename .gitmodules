@@ -4,3 +4,6 @@
 [submodule "java_hometask_2"]
 	path = java_hometask_2
 	url = https://github.com/ancndz/java_hometask_2
+[submodule "java_hometask_3_cars_types"]
+	path = java_hometask_3_cars_types
+	url = https://github.com/ancndz/java_hometask_3_cars_types
